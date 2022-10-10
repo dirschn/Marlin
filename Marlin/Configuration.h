@@ -655,9 +655,9 @@
     #define DEFAULT_Kp 26.36
     #define DEFAULT_Ki 2.52
     #define DEFAULT_Kd 69.07
-    #define DEFAULT_bedKp 126.73
-    #define DEFAULT_bedKi 24.75
-    #define DEFAULT_bedKd 432.57
+    #define DEFAULT_bedKp 92.64
+    #define DEFAULT_bedKi 18.09
+    #define DEFAULT_bedKd 316.21
   #endif
 #endif
 
